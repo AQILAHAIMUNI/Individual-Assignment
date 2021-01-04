@@ -1,0 +1,84 @@
+a
+	{
+		font-size: 15px;
+		font-family: 'Catamaran', cursive;
+		background-color: #F88017;
+		color: #7D0552;
+		padding: 10px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 10px;
+	}	
+a:hover
+	{
+		background-color: #00FFFF;
+		color: #806517;
+	}
+h1
+{
+	font-family: 'indie flower', cursive;
+}
+h2
+{
+	background-color: #6AFB92;
+		font-family: 'Roboto Slab', cursive;
+		color: #571B7E;
+		padding: 8px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block
+}
+ul
+{
+     
+		font-family: 'indie flower', cursive;
+		color: #2B3856;
+		
+}
+h3
+{
+	background-color: #FAAFBA;
+		font-family: 'indie flower', cursive;
+		color: #7D0552;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block
+}
+h4
+{
+	background-color: #B2C248;
+		font-family: 'indie flower', cursive;
+		color: #F3E5AB;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block
+}
+h5
+{
+		font-family: 'indie flower', cursive;
+		color: #7D0541;
+}
+p
+{
+	background-color: #E3E4FA;
+		font-family: 'indie flower', cursive;
+		color: #0020C2;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block
+}
+h6
+{
+	background-color: #E6A9EC;
+		font-family: 'indie flower', cursive;
+		color: #8C001A;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block
+}
+
